@@ -80,7 +80,9 @@
       "should",
       "unescape",
       "unescape",
-      "_"
+      "_",
+      "define",
+      "require"
     ],
     "smarttabs": true,
     "trailing": false,
