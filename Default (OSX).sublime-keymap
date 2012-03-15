@@ -1,2 +1,3 @@
 [
+	{ "keys": ["ctrl+alt+v"], "command": "insert_snippet", "args": {"name": "Packages/User/vardump.sublime-snippet" }}
 ]
