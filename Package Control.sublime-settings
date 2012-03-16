@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": 1331806397,
+	"auto_upgrade_last_run": 1331890893,
 	"installed_packages":
 	[
+		"INI",
 		"Package Control",
+		"Pretty JSON",
 		"SublimeLinter"
 	]
 }
