@@ -52,15 +52,6 @@
     },
     {
         "keys": [
-            "alt+delete"
-        ],
-        "command": "delete_subwords",
-        "args": {
-            "forward": true
-        }
-    },
-    {
-        "keys": [
             "alt+k",
             "ctrl+backspace"
         ],
