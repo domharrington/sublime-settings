@@ -49,46 +49,7 @@
     "Vintage",
     "YAML"
   ],
-  "jshint_options":
-  {
-    "browser": true,
-    "curly": true,
-    "devel": true,
-    "eqeqeq": true,
-    "eqnull": true,
-    "es5": true,
-    "evil": false,
-    "immed": false,
-    "jquery": true,
-    "latedef": false,
-    "laxcomma": true,
-    "newcap": true,
-    "node": true,
-    "noempty": true,
-    "nonew": true,
-    "predef":
-    [
-      "after",
-      "afterEach",
-      "before",
-      "beforeEach",
-      "db",
-      "describe",
-      "Ext",
-      "io",
-      "it",
-      "should",
-      "unescape",
-      "unescape",
-      "_",
-      "define",
-      "require"
-    ],
-    "smarttabs": true,
-    "trailing": false,
-    "undef": true,
-    "strict": false
-  },
+
   "scroll_past_end": true,
   "tab_size": 2,
   "trim_trailing_white_space_on_save": true,
