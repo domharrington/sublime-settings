@@ -1,13 +1,12 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "draw_white_space": "all",
   "folder_exclude_patterns":
   [
     ".svn",
     ".git",
     ".hg",
-    "CVS",
-    "node_modules"
+    "CVS"
   ],
   "font_face": "Monaco",
   "font_size": 11.0,
@@ -49,11 +48,14 @@
     "Vintage",
     "YAML"
   ],
-
+  "rulers":
+  [
+    80
+  ],
   "scroll_past_end": true,
   "tab_size": 2,
+  "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": false,
-  "draw_white_space": "all",
-  "rulers": [80]
+  "detect_slow_plugins": false
 }
