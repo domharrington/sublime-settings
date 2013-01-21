@@ -2,7 +2,7 @@
   "jshint_options":
   {
     "browser": true,
-    "curly": true,
+    "curly": false,
     "devel": true,
     "eqeqeq": true,
     "eqnull": true,
@@ -12,10 +12,12 @@
     "jquery": true,
     "latedef": false,
     "laxcomma": true,
+    "laxbreak": true,
     "newcap": true,
     "node": true,
     "noempty": true,
     "nonew": true,
+    "asi": true,
     "predef":
     [
       "after",
@@ -30,7 +32,6 @@
       "should",
       "unescape",
       "unescape",
-      "_",
       "define",
       "require"
     ],
