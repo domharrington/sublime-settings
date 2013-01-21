@@ -71,5 +71,15 @@
             "ctrl+alt+b"
         ],
         "command": "git_blame"
+    },
+    {
+        "keys": [
+            "ctrl+alt+super+f"
+        ],
+        "command": "open_dir",
+        "args": {
+            "dir": "$file_path",
+            "file": "$file_name"
+        }
     }
 ]
