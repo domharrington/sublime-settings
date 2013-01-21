@@ -2,6 +2,11 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		".gitignore",
+		".DS_Store"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
