@@ -1,13 +1,17 @@
 {
-	"auto_upgrade_last_run": 1335095963,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"Git",
 		"INI",
+		"LaTeXTools",
 		"LESS",
+		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
-		"SublimeLinter"
+		"Stylus",
+		"SublimeLinter",
+		"Theme - Soda"
 	]
 }
