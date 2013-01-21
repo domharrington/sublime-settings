@@ -51,7 +51,8 @@
 	],
 	"rulers":
 	[
-		80
+		80,
+		120
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
