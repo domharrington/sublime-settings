@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"CoffeeScript",
@@ -11,6 +12,7 @@
 		"Pretty JSON",
 		"Stylus",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WordCount"
 	]
 }
