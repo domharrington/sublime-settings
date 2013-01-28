@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Base16/base16-solarized.dark.tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"file_exclude_patterns":
