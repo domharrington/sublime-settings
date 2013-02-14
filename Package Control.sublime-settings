@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"Dictionaries",
 		"Git",
 		"INI",
 		"LaTeXTools",
