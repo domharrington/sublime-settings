@@ -1,3 +1,4 @@
 {
-  "spell_check": true
+  "spell_check": false,
+  "color_scheme": "Packages/Focus/Focus (dark).tmTheme"
 }

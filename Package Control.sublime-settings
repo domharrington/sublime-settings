@@ -4,7 +4,9 @@
 	[
 		"CoffeeScript",
 		"Dictionaries",
+		"Focus",
 		"Git",
+		"GitGutter",
 		"INI",
 		"LaTeXTools",
 		"LESS",
