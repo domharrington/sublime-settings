@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Base16/base16-solarized.dark.tmTheme",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_white_space": "all",
@@ -38,11 +38,11 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
-		, "node_modules"
+		"CVS",
+		"node_modules"
 	],
 	"font_face": "Monaco",
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -86,5 +86,6 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"atomic_save": false
 }
