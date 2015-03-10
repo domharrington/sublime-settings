@@ -1,21 +1,40 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"CoffeeScript",
 		"Dictionaries",
+		"EditorConfig",
 		"Focus",
 		"Git",
 		"GitGutter",
+		"Gutter Color",
 		"INI",
+		"Jade",
 		"LaTeXTools",
 		"LESS",
+		"LineEndings",
+		"LoremIpsum",
 		"Markdown Preview",
+		"Open-Include",
 		"Package Control",
 		"Pretty JSON",
 		"Stylus",
+		"sublime-github",
 		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"tern_for_sublime",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/Kronuz/ColorHighlighter.git"
 	]
 }

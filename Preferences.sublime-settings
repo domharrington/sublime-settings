@@ -1,16 +1,26 @@
 {
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"atomic_save": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_white_space": "all",
 	"file_exclude_patterns":
 	[
-		".gitignore",
 		".DS_Store",
 		"*.aux",
 		"*.glo",
 		"*.idx",
-		"*.log",
 		"*.toc",
 		"*.ist",
 		"*.acn",
@@ -47,34 +57,38 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Java",
-		"Scala",
-		"Vintage",
-		"Rails",
-		"Perl",
-		"Textile",
-		"Lua",
-		"Matlab",
-		"Erlang",
-		"Batch File",
-		"ASP",
-		"Python",
-		"AppleScript",
 		"TCL",
-		"Ruby",
-		"Groovy",
-		"D",
-		"Lisp",
-		"Objective-C",
-		"R",
-		"Clojure",
+		"Java",
 		"Regular Expressions",
-		"RestructuredText",
-		"OCaml",
-		"Graphviz",
+		"Matlab",
+		"Vintage",
+		"Scala",
+		"Rails",
+		"Erlang",
+		"Go",
+		"Ruby",
 		"YAML",
 		"Haskell",
-		"Go"
+		"Objective-C",
+		"Graphviz",
+		"AppleScript",
+		"Groovy",
+		"WordCount",
+		"CoffeeScript",
+		"Batch File",
+		"R",
+		"Theme - Soda",
+		"Clojure",
+		"Lua",
+		"D",
+		"ASP",
+		"OCaml",
+		"Dictionaries",
+		"Python",
+		"RestructuredText",
+		"Lisp",
+		"Perl",
+		"Textile"
 	],
 	"rulers":
 	[
@@ -83,9 +97,8 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"tern_argument_hints": true,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"atomic_save": false
+	"word_wrap": true
 }
